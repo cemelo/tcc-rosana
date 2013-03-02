@@ -56,10 +56,10 @@
 \backcite {ARIES2011}{{18}{1.1}{section.1.1}}
 \backcite {MOURA1998}{{18}{5}{Hfootnote.5}}
 \backcite {GALLATIN1978}{{19}{1.1}{section.1.1}}
-\backcite {SANTOS2907}{{19}{1.1}{section.1.1}}
-\backcite {SANTOS2907}{{19}{1.1}{section.1.1}}
-\backcite {KULLER2909}{{19}{1.1}{section.1.1}}
-\backcite {KULLER2909}{{19}{1.1}{section.1.1}}
+\backcite {SANTOS2007}{{19}{1.1}{section.1.1}}
+\backcite {SANTOS2007}{{19}{1.1}{section.1.1}}
+\backcite {KULLER2009}{{19}{1.1}{section.1.1}}
+\backcite {KULLER2009}{{19}{1.1}{section.1.1}}
 \backcite {MIRANDA1989}{{19}{1.1}{section.1.1}}
 \backcite {GALLATIN1978}{{19}{1.1}{section.1.1}}
 \backcite {ARIES2011}{{19}{1.1}{section.1.1}}
@@ -121,10 +121,8 @@
 \backcite {BASS1983}{{28}{2}{chapter.2}}
 \backcite {JUNG2006}{{28}{2}{chapter.2}}
 \backcite {OLIVEIRA1989}{{28}{2}{chapter.2}}
-\backcite {JUNG, 2006}{{28}{2}{chapter.2}}
-\backcite {JUNG, 2006}{{28}{2}{chapter.2}}
-\backcite {JUNG, 2006}{{28}{2}{chapter.2}}
-\backcite {JUNG, 2006}{{28}{2}{chapter.2}}
+\backcite {JUNG2006}{{28}{2}{chapter.2}}
+\backcite {JUNG2006}{{28}{2}{chapter.2}}
 \backcite {JUNG2006}{{28}{2}{chapter.2}}
 \backcite {GABEL1997}{{29}{2}{chapter.2}}
 \backcite {JUNG2006}{{29}{2}{chapter.2}}
@@ -134,7 +132,6 @@
 \backcite {ENNEW1986}{{29}{2}{chapter.2}}
 \backcite {NETO2009}{{29}{2}{chapter.2}}
 \backcite {NETO2009}{{29}{2}{chapter.2}}
-\backcite {OMS1999}{{29}{2}{chapter.2}}
 \backcite {HOLMES1997}{{30}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{30}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{30}{2}{chapter.2}}
@@ -158,14 +155,23 @@
 \backcite {MATTOS2002}{{31}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{31}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{31}{2}{chapter.2}}
-\backcite {FURNISS1993, KAPLANSADOCKGREBB1997, SANDERSON2005}{{31}{2}{chapter.2}}
-\backcite {FURNISS1993, KAPLANSADOCKGREBB1997, SANDERSON2005}{{31}{2}{chapter.2}}
-\backcite {FURNISS1993, KAPLANSADOCKGREBB1997, SANDERSON2005}{{31}{2}{chapter.2}}
+\backcite {FURNISS1993}{{31}{2}{chapter.2}}
+\backcite {FURNISS1993}{{31}{2}{chapter.2}}
+\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
+\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
+\backcite {KAPLANSADOCKGREBB1997}{{31}{2}{chapter.2}}
+\backcite {KAPLANSADOCKGREBB1997}{{31}{2}{chapter.2}}
+\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
+\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
+\backcite {SANDERSON2005}{{31}{2}{chapter.2}}
+\backcite {SANDERSON2005}{{31}{2}{chapter.2}}
+\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
+\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
 \backcite {SANCHEZ1997}{{31}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{31}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{31}{2}{chapter.2}}
-\backcite {IPPOLITO2003}{{31}{2}{chapter.2}}
-\backcite {JUNG2006}{{31}{2}{chapter.2}}
+\backcite {IPPOLITO2003}{{32}{2}{chapter.2}}
+\backcite {JUNG2006}{{32}{2}{chapter.2}}
 \backcite {JUNG2006}{{32}{2}{chapter.2}}
 \backcite {RAMOS2009}{{32}{2}{chapter.2}}
 \backcite {KAPLANSADOCKGREBB1997}{{32}{2}{chapter.2}}
