@@ -71,6 +71,10 @@
 %\renewcommand{\ABNTEXchapterfont}{\fontfamily{helvet}\selectfont}
 %\renewcommand{\ABNTEXsectionfont}{\fontfamily{droidsans}} %\fontseries{b}\selectfont}
 
+\renewcommand{\apudonline}[3][]{\citeauthoronline{#2} (\citeyear{#2} \apudname\ %
+\citeauthor{#3}, \citeyear{#3}%
+\ifthenelse{\equal{#1}{\empty}}{}{, #1})}
+
 % ---
 % Configurações do pacote backref
 % Usado sem a opção hyperpageref de backref
