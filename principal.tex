@@ -22,10 +22,20 @@
 % Pacotes fundamentais 
 % ---
 \usepackage{cmap}				% Mapear caracteres especiais no PDF
-\usepackage{lmodern}			% Usa a fonte Latin Modern	
+%\usepackage{lmodern}			% Usa a fonte Latin Modern	
 %\usepackage{fourier}		
+
+% ---
+% Configurações de fonte
+% ---
+
+%\usepackage[default]{droidserif}
 \usepackage[T1]{fontenc}		% Seleção de códigos de fonte.
 \usepackage[utf8]{inputenc}		% Determina a codificação utiizada (conversão automática dos acentos)
+
+\usepackage[defaultsans]{droidsans}
+\usepackage[default]{droidserif}
+
 \usepackage{makeidx}            % Cria o indice
 \usepackage{hyperref}  			% Controla a formação do índice
 \usepackage{lastpage}			% Usado pela Ficha catalográfica
@@ -33,7 +43,9 @@
 \usepackage{color}				% Controle das cores
 %\usepackage{graphicx}			% Inclusão de gráficos
 % ---
-	
+
+\renewcommand*\sffamily{droidsans}
+
 % ---
 % Pacotes adicionais, usados apenas no âmbito do Modelo Canônico do abnteX2
 % ---
@@ -49,6 +61,15 @@
 % --- 
 % CONFIGURAÇÕES DE PACOTES
 % --- 
+
+\usepackage[scaled]{helvet}
+%\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+%\setromanfont{Minion Pro}
+%\setsansfont{Myriad Pro}
+%\setmonofont[Scale=MatchLowercase]{Consolas}
+%\renewcommand{\ABNTEXpartfont}{\fontfamily{sans}}
+%\renewcommand{\ABNTEXchapterfont}{\fontfamily{helvet}\selectfont}
+%\renewcommand{\ABNTEXsectionfont}{\fontfamily{droidsans}} %\fontseries{b}\selectfont}
 
 % ---
 % Configurações do pacote backref
@@ -77,7 +98,7 @@
 \data{Março 2013}
 \orientador[Orientadora:]{Juliana de Castro Chaves}
 \instituicao{%
-  Universidade Federal de Goiás - UFG
+  Universidade Federal de Goiás -- UFG
   \par
   Faculdade de Educação
   \par
@@ -87,7 +108,7 @@
 % o nome da instituição e a área de concentração 
 \preambulo{Trabalho apresentado à banca examinadora da
   Faculdade de Educação da Universidade Federal de Goiás
-  - UFG como exigência parcial para obtenção do grau de
+  -- UFG como exigência parcial para obtenção do grau de
   Bacharel em Psicologia, sob orientação da Prof. Dra.
   Juliana de Castro Chaves.}
 % ---
@@ -234,12 +255,12 @@
 % ---
 % Dedicatória
 % ---
-\begin{dedicatoria}
-    \vspace*{\fill}
-    \centering
-    \noindent
-    \textit{A fazer.} \vspace*{\fill}
-\end{dedicatoria}
+%\begin{dedicatoria}
+%    \vspace*{\fill}
+%    \centering
+%    \noindent
+%    \textit{A fazer.} \vspace*{\fill}
+%\end{dedicatoria}
 % ---
 
 % ---
@@ -299,10 +320,6 @@ Ao meu namorado, Eduardo, meu apoio incondicional, pelo carinho, pela paciência
   \end{otherlanguage*}
 \end{resumo}
 % ---
-
-%\renewcommand{\ABNTEXpartfont}{\fontfamily{cmr}\fontseries{b}\selectfont}
-%\renewcommand{\ABNTEXchapterfont}{\fontfamily{cmr}\fontseries{b}\selectfont}
-%\renewcommand{\ABNTEXsectionfont}{\fontfamily{cmr}\fontseries{b}\selectfont}
 
 % ---
 % Criação do Sumário
