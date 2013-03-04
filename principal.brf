@@ -110,8 +110,8 @@
 \backcite {ESBER2007}{{27}{2}{chapter.2}}
 \backcite {ESBER2007}{{27}{2}{chapter.2}}
 \backcite {ESBER2009}{{27}{2}{chapter.2}}
-\backcite {ISTCA1924}{{27}{2}{chapter.2}}
 \backcite {ONU1959}{{27}{2}{chapter.2}}
+\backcite {BRASIL1990}{{27}{2}{chapter.2}}
 \backcite {MJ2001}{{27}{2}{chapter.2}}
 \backcite {MJ2001}{{27}{2}{chapter.2}}
 \backcite {SANDERSON2005}{{28}{2}{chapter.2}}
@@ -132,6 +132,8 @@
 \backcite {ENNEW1986}{{29}{2}{chapter.2}}
 \backcite {NETO2009}{{29}{2}{chapter.2}}
 \backcite {NETO2009}{{29}{2}{chapter.2}}
+\backcite {BRASIL1940}{{29}{2}{chapter.2}}
+\backcite {BRASIL1990}{{29}{2}{chapter.2}}
 \backcite {HOLMES1997}{{30}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{30}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{30}{2}{chapter.2}}
@@ -157,12 +159,8 @@
 \backcite {TRINDADEBREIER2007}{{31}{2}{chapter.2}}
 \backcite {FURNISS1993}{{31}{2}{chapter.2}}
 \backcite {FURNISS1993}{{31}{2}{chapter.2}}
-\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
-\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
 \backcite {KAPLANSADOCKGREBB1997}{{31}{2}{chapter.2}}
 \backcite {KAPLANSADOCKGREBB1997}{{31}{2}{chapter.2}}
-\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
-\backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
 \backcite {SANDERSON2005}{{31}{2}{chapter.2}}
 \backcite {SANDERSON2005}{{31}{2}{chapter.2}}
 \backcite {HABIGZANG2012}{{31}{2}{chapter.2}}
@@ -184,12 +182,12 @@
 \backcite {FERREIRASCHARAMM2000}{{32}{2}{chapter.2}}
 \backcite {HABIGZANG2012}{{32}{2}{chapter.2}}
 \backcite {HABIGZANG2012}{{32}{2}{chapter.2}}
-\backcite {IPPOLITO2003, SANTOS1991, VITIELLO1989}{{32}{2}{chapter.2}}
-\backcite {IPPOLITO2003, SANTOS1991, VITIELLO1989}{{32}{2}{chapter.2}}
-\backcite {IPPOLITO2003, SANTOS1991, VITIELLO1989}{{32}{2}{chapter.2}}
-\backcite {IPPOLITO2003, SANTOS1991, VITIELLO1989}{{32}{2}{chapter.2}}
-\backcite {IPPOLITO2003, SANTOS1991, VITIELLO1989}{{32}{2}{chapter.2}}
-\backcite {IPPOLITO2003, SANTOS1991, VITIELLO1989}{{32}{2}{chapter.2}}
+\backcite {IPPOLITO2003}{{32}{2}{chapter.2}}
+\backcite {IPPOLITO2003}{{32}{2}{chapter.2}}
+\backcite {SANTOS1991}{{32}{2}{chapter.2}}
+\backcite {SANTOS1991}{{32}{2}{chapter.2}}
+\backcite {VITIELLO1989}{{32}{2}{chapter.2}}
+\backcite {VITIELLO1989}{{32}{2}{chapter.2}}
 \backcite {JUNG2006}{{32}{2}{chapter.2}}
 \backcite {JUNG2006}{{32}{2}{chapter.2}}
 \backcite {FERREIRASCHARAMM2000}{{32}{2}{chapter.2}}
@@ -209,10 +207,10 @@
 \backcite {JUNG2006}{{32}{2}{chapter.2}}
 \backcite {JUNG2006}{{32}{2}{chapter.2}}
 \backcite {JUNG2006}{{32}{2}{chapter.2}}
-\backcite {AZEVEDO1989}{{32}{2}{chapter.2}}
-\backcite {AZEVEDO1989}{{32}{2}{chapter.2}}
-\backcite {JUNG2006}{{32}{2}{chapter.2}}
-\backcite {JUNG2006}{{32}{2}{chapter.2}}
+\backcite {AZEVEDO1989}{{33}{2}{chapter.2}}
+\backcite {AZEVEDO1989}{{33}{2}{chapter.2}}
+\backcite {JUNG2006}{{33}{2}{chapter.2}}
+\backcite {JUNG2006}{{33}{2}{chapter.2}}
 \backcite {KUNG2009}{{33}{2}{chapter.2}}
 \backcite {TRINDADEBREIER2007}{{33}{2}{chapter.2}}
 \backcite {FURNISS1993}{{33}{2}{chapter.2}}
@@ -223,7 +221,7 @@
 \backcite {MILLER1987}{{33}{2}{chapter.2}}
 \backcite {JUNG2006}{{33}{2}{chapter.2}}
 \backcite {JUNG2006}{{33}{2}{chapter.2}}
-\backcite {JUNG2006}{{33}{2}{chapter.2}}
+\backcite {JUNG2006}{{34}{2}{chapter.2}}
 \backcite {JUNG2006}{{34}{2}{chapter.2}}
 \backcite {RIVEROS1995}{{35}{3.1}{section.3.1}}
 \backcite {RIVEROS1995}{{35}{3.1}{section.3.1}}
@@ -278,8 +276,8 @@
 \backcite {LEAL2008}{{39}{3.2}{section.3.2}}
 \backcite {LEAL2008}{{39}{3.2}{section.3.2}}
 \backcite {JESUS2001}{{39}{3.2}{section.3.2}}
-\backcite {BRUNO1997}{{40}{3.2}{section.3.2}}
-\backcite {BRUNO1997}{{40}{3.2}{section.3.2}}
+\backcite {BRUNO1967}{{40}{3.2}{section.3.2}}
+\backcite {BRUNO1967}{{40}{3.2}{section.3.2}}
 \backcite {LEAL2008}{{40}{3.2}{section.3.2}}
 \backcite {LEAL2008}{{40}{3.2}{section.3.2}}
 \backcite {LEAL2008}{{40}{3.2}{section.3.2}}
@@ -302,7 +300,7 @@
 \backcite {IPPOLITO2003}{{41}{3.3}{section.3.3}}
 \backcite {JUNG2006}{{41}{3.3}{section.3.3}}
 \backcite {JUNG2006}{{41}{3.3}{section.3.3}}
-\backcite {JUNG2006}{{41}{3.3}{section.3.3}}
+\backcite {JUNG2006}{{42}{3.3}{section.3.3}}
 \backcite {VIAUX1997}{{42}{3.3}{section.3.3}}
 \backcite {VIAUX1997}{{42}{3.3}{section.3.3}}
 \backcite {JUNG2006}{{42}{3.3}{section.3.3}}
@@ -316,15 +314,15 @@
 \backcite {ROVINSKI2004}{{42}{3.3}{section.3.3}}
 \backcite {ROVINSKI2004}{{42}{3.3}{section.3.3}}
 \backcite {ROVINSKI2004}{{42}{3.3}{section.3.3}}
-\backcite {ROVINSKI2004}{{42}{3.3}{section.3.3}}
+\backcite {ROVINSKI2004}{{43}{3.3}{section.3.3}}
 \backcite {SANTOS2004}{{43}{3.3}{section.3.3}}
 \backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
 \backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
 \backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
 \backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
-\backcite {ARANTES2007}{{43}{3.3}{section.3.3}}
-\backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
-\backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
-\backcite {SANTOS2009}{{43}{3.3}{section.3.3}}
+\backcite {ARANTES2007}{{44}{3.3}{section.3.3}}
+\backcite {SANTOS2009}{{44}{3.3}{section.3.3}}
+\backcite {SANTOS2009}{{44}{3.3}{section.3.3}}
+\backcite {SANTOS2009}{{44}{3.3}{section.3.3}}
 \backcite {COSTA2009}{{44}{3.3}{section.3.3}}
 \backcite {JESUS2001}{{44}{3.3}{section.3.3}}
